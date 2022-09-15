@@ -7,4 +7,4 @@ The first version of the game was made following this youtube tutorial: https://
 The assets source: https://opengameart.org/content/shooting-gallery
 
 
-the gun sound source: https://opengameart.org/content/shotgun-shoot-reload
+The gun sound source: https://opengameart.org/content/shotgun-shoot-reload
